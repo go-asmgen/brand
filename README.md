@@ -13,14 +13,17 @@ Official logos for the **go-asmgen** organization.
 - **ICNS** (macOS) — `icns/`
 - **GitHub avatar** 512 px — `avatar/`
 
-## Repos (5)
+## Repos (8)
 
 | | repo |
 |---|---|
 | <img src="avatar/go-asmgen-386.png" width="48"> | `386` |
 | <img src="avatar/go-asmgen-amd64.png" width="48"> | `amd64` |
 | <img src="avatar/go-asmgen-arm64.png" width="48"> | `arm64` |
+| <img src="avatar/go-asmgen-loong64.png" width="48"> | `loong64` |
+| <img src="avatar/go-asmgen-ppc64le.png" width="48"> | `ppc64le` |
 | <img src="avatar/go-asmgen-riscv64.png" width="48"> | `riscv64` |
+| <img src="avatar/go-asmgen-s390x.png" width="48"> | `s390x` |
 | <img src="avatar/go-asmgen-wasm.png" width="48"> | `wasm` |
 
 ---
